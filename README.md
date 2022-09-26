@@ -11,15 +11,19 @@ ___
 
 User Stories
 
-1. Eu como usuario final gostaria de ter um aprendizado personalizado
+1. Eu como usuario final gostaria que o jogo se adaptasse a minha forma de aprender, para que possa melhorar meu aprendizado
 
-        Criterios de aceitação:
-        
-        DOD:
+        Regra:
+        O jogo deve mapear o perfil do aluno com base nas dimensões visual/verbal, ativo/reflexico, sensorial/intuitivo e sequencial/global do modelo de felder e silverman.
+        Devem ser coletados informações de alunos do ensino médio
+        O questionário deve ser preenchido por uma grande quantidade de alunos
+        DOD :
+        Questionários com as respostas de cada aluno
+        Arquivo XLSX com os dados preenchidos de todos os alunos
     
  
 
-2. Eu como usuario final
+2. Eu como usuario final gostaria que minha 
 
         Criterios de aceitação:
         
