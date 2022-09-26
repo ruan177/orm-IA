@@ -17,7 +17,7 @@ O processo de ensino-aprendizagem, mesmo seguindo alguns padrões, é complexo, 
   
   DOD:
 
-2 Eu como usuario final preciso de
+2. Eu como usuario final preciso de
 
   Dado que? 
   Quando?
@@ -25,7 +25,7 @@ O processo de ensino-aprendizagem, mesmo seguindo alguns padrões, é complexo, 
   
   DOD:
 
-3 Eu como usuario final preciso de
+3. Eu como usuario final preciso de
 
   Dado que? 
   Quando?
