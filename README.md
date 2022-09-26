@@ -9,7 +9,7 @@ O processo de ensino-aprendizagem, mesmo seguindo alguns padrões, é complexo, 
 
 ### Funcionalidades
 
-1.Eu como usuario final gostaria de ter um aprendizado personalizado, 
+> 1. Eu como usuario final gostaria de ter um aprendizado personalizado, 
 
 Dado que? 
 Quando?
@@ -17,7 +17,7 @@ Então?
 
 DOD:
 
-2.Eu como usuario final preciso de
+> 2. Eu como usuario final preciso de
 
 Dado que? 
 Quando?
@@ -25,7 +25,7 @@ Então?
 
 DOD:
 
-3.Eu como usuario final preciso de
+> 3. Eu como usuario final preciso de
 
 Dado que? 
 Quando?
