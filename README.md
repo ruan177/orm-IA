@@ -15,21 +15,14 @@ O processo de ensino-aprendizagem, mesmo seguindo alguns padrões, é complexo, 
     
  
 
-2. Eu como usuario final preciso de
-    Criterios de aceitação:
-    Dado que? 
-    Quando?
-    Então?
+2. Eu como usuario final
 
-    DOD:
+        Criterios de aceitação:
 
-3. Eu como usuario final preciso de
 
-    Dado que? 
-    Quando?
-    Então?
+3. Eu como usuario final 
 
-    DOD:
+        Criterios de aceitação:
 
 
 
