@@ -14,12 +14,12 @@ User Stories
 1. Eu como usuario final gostaria que o jogo se adaptasse a minha forma de aprender, para que possa melhorar meu aprendizado
 
         Regra:
-        O jogo deve mapear o perfil do aluno com base nas dimensões visual/verbal, ativo/reflexico, sensorial/intuitivo e sequencial/global do modelo de felder e silverman.
-        Devem ser coletados informações de alunos do ensino médio
-        O questionário deve ser preenchido por uma grande quantidade de alunos
+        * O jogo deve mapear o perfil do aluno com base nas dimensões visual/verbal, ativo/reflexico, sensorial/intuitivo e sequencial/global do modelo de felder e silverman.
+        * Devem ser coletados informações de alunos do ensino médio
+        * O questionário deve ser preenchido por uma grande quantidade de alunos
         DOD :
-        Questionários com as respostas de cada aluno
-        Arquivo XLSX com os dados preenchidos de todos os alunos
+        * Questionários com as respostas de cada aluno
+        * Arquivo XLSX com os dados preenchidos de todos os alunos
     
  
 
