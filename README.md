@@ -12,17 +12,23 @@ O processo de ensino-aprendizagem, mesmo seguindo alguns padrões, é complexo, 
 1. Eu como usuario final gostaria de ter um aprendizado personalizado
 
         Criterios de aceitação:
+        
+        DOD:
     
  
 
 2. Eu como usuario final
 
         Criterios de aceitação:
+        
+        DOD:
 
 
 3. Eu como usuario final 
 
         Criterios de aceitação:
+        
+        DOD:
 
 
 
