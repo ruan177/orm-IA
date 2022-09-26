@@ -18,17 +18,17 @@ DOD:
 
 > 2. Eu como usuario final preciso de
 
-Dado que? 
-Quando?
-Então?
+    Dado que? 
+    Quando?
+    Então?
 
 DOD:
 
 > 3. Eu como usuario final preciso de
 
-Dado que? 
-Quando?
-Então?
+    Dado que? 
+    Quando?
+    Então?
 
 DOD:
 
