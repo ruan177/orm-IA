@@ -42,7 +42,7 @@ User Stories
         * Os dados de desempenho dele devem ser persistidos no banco de dados 
         * O progresso dele deve ser persistido no banco de dados
         DOD:
-        *Diarama de desenvolvimento do banco de dados
+        *Diagrama de desenvolvimento do banco de dados
         *Relatórios dos testes do banco 
         
 
