@@ -1,7 +1,7 @@
 
 # ORM-IA
 
-ORM IA é um projeto de desenvolvimento de uma rede neural para classificação de perfis de aprendizado aplicado a um jogo educacional de história
+ORM IA é um projeto de desenvolvimento de uma rede neural para classificação de perfis de jogador aplicado a um jogo educacional de história
 
 ### CONTEXTO
 ___
@@ -11,15 +11,19 @@ ___
 
 User Stories
 
-1. Eu como usuario final gostaria que o jogo se adaptasse a minha forma de aprender, para que possa melhorar meu aprendizado
+1. Eu como usuario final gostaria que o jogo se adaptasse a minha forma de jogar, para que possa melhorar meu jogo
 
         Critérios de aceitação:
-        * O jogo deve mapear o perfil do aluno com base nas dimensões visual/verbal, ativo/reflexico, sensorial/intuitivo e sequencial/global do modelo de felder e silverman.
-        * Devem ser coletados informações de alunos do ensino médio
-        * O questionário deve ser preenchido por uma grande quantidade de alunos
+        * O jogo deve mapear o perfil do aluno com base nos tipos de jogadores de Richard Bartle.
+        * Devem ser coletados informações de desempenho no jogo de alunos do ensino médio
+        * O jogo deve ser jogado por uma grande quantidade de alunos, para que a IA possua uma grande base de dados.
+        * Questionário para mapear o tipo de jogado do aluno, a ser comparado no final do jogo
         DOD :
-        * Questionários com as respostas de cada aluno
-        * Arquivo XLSX com os dados preenchidos de todos os alunos
+        * Questionários e respostas em arquivo XLSX com os dados preenchidos de todos os alunos
+        * Código de implementação da IA dentro do jogo complilada e sem erros.
+        * Teste de uniadade
+        * Relatório de teste e Bugs
+        *Refatoração
     
  
 
@@ -31,21 +35,33 @@ User Stories
         * A eficacia da rede neural deve ser superior a 70% em relação a predição de aprendizado
         * 60% dos dados devem usados como conjunto de treinamento e 40% para o conjunto de teste
         DOD:
-        * Diagramas com a porcentagem da efetividade da rede neural
+        * Comparativo entre as diferentes redes neurais testas e sua porcetagem de efetividade
         * Relatório de conclusão do código da rede neural e como foi desenvolvido
-        * Relatório dos conjuntos de dteste da rede neural
+        * Teste de unidade
+        * Teste em diversos dispositivos para testa compatibilidade
+        * Relatório de bugs e correções
 
 3. Eu como usuario final gostaria que toda vez que retornar ao jogo, minha estratégia de jogo fosse a mesma
 
         Criterios de aceitação:
         * O banco de dados deve conter informações para identificar cada aluno individualmente
-        * Os dados de desempenho dele devem ser persistidos no banco de dados 
-        * O progresso dele deve ser persistido no banco de dados
+        * Os dados de desempenho do aluno devem ser persistidos no banco de dados 
+        * O desempenho em jogo deve estar atrelado a conta do jogo do aluno
         DOD:
-        *Diagrama de desenvolvimento do banco de dados
-        *Relatórios dos testes do banco 
+        *Codigo em SQL do banco de dados desenvovldio
+        *Testes de unidade
+        
         
 
+### Modelo entidade Relacionamento
 
+<div align="center">
+  <img src="">
+</div>
 
+### Modelo de classe
+
+<div align="center">
+  <img src="">
+</div>
 
