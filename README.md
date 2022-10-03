@@ -21,9 +21,9 @@ User Stories
         DOD :
         * Questionários e respostas em arquivo XLSX com os dados preenchidos de todos os alunos
         * Código de implementação da IA dentro do jogo complilada e sem erros.
-        * Teste de uniadade
-        * Relatório de teste e Bugs
-        *Refatoração
+        * Testes de unidade
+        * Relatório de testes e Bugs
+        * Refatoração
     
  
 
@@ -37,8 +37,8 @@ User Stories
         DOD:
         * Comparativo entre as diferentes redes neurais testas e sua porcetagem de efetividade
         * Relatório de conclusão do código da rede neural e como foi desenvolvido
-        * Teste de unidade
-        * Teste em diversos dispositivos para testa compatibilidade
+        * Teste de unidades
+        * Teste de compatibilidade
         * Relatório de bugs e correções
 
 3. Eu como usuario final gostaria que toda vez que retornar ao jogo, minha estratégia de jogo fosse a mesma
@@ -48,7 +48,7 @@ User Stories
         * Os dados de desempenho do aluno devem ser persistidos no banco de dados 
         * O desempenho em jogo deve estar atrelado a conta do jogo do aluno
         DOD:
-        *Codigo em SQL do banco de dados desenvovldio
+        *Codigo em SQL do banco de dados desenvolvido testado e aprovado
         *Testes de unidade
         
         
