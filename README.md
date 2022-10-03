@@ -56,12 +56,12 @@ User Stories
 ### Modelo entidade Relacionamento
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/ruan177/orm-IA/blob/main/ClassModel.png">
 </div>
 
 ### Modelo de classe
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/ruan177/orm-IA/blob/main/ERDDiagram1.png">
 </div>
 
