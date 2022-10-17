@@ -26,12 +26,14 @@ class Character(Base):
     damage = Column(Integer, nullable=False)
     life = Column(Integer, nullable=False)
     classe = Column(String(150), nullable=False)
-
+    id_
 
 class Game(Base):
     __tablename__ = "Game"
     id_game = Column(Integer, primary_key=True)
     nome = Column(String(150), nullable=False)
+
+
 
 
 class Account(Base):
